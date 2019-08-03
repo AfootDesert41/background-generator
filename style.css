@@ -1,0 +1,39 @@
+body {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	font-family: 'Monoton', cursive;
+	font-size: 350%;
+	margin: 0px;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+	font-size: 200%;
+	display: flex;
+	justify-content: center; 	
+}
+
+h3 {
+	display: inline-flex;
+	justify-content: center;
+}
+
+#colorcontainer {
+	display: flex;
+	justify-content: center;
+}
+
+#color1 {
+	margin-right: 4px;
+}
+
+#color2 {
+	margin-left: 4px;
+}
